@@ -16,4 +16,6 @@ public:
 	void divide(int x, int);
 
 	void return5();
+
+#xxx
 };
